@@ -1,0 +1,7 @@
+{
+  "name": "HardwareLink B2B Brokerage",
+  "description": "A comprehensive B2B marketplace for industrial hardware, connecting businesses with refurbishers through a secure, admin-brokered workflow.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
